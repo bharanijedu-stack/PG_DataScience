@@ -41,8 +41,3 @@ Each exercise contains **notebooks or scripts** and a short README explaining th
 
 ---
 
-## How to Run
-
-- Clone the repository:  
-```bash
-git clone https://github.com/yourusername/pgp-data-science-generative-ai.git
