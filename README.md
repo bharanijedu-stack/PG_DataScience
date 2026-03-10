@@ -25,7 +25,7 @@ Each exercise contains **notebooks or scripts** and a short README explaining th
 - **Objective:** Predict monthly sales using historical data  
 - **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib  
 - **Workflow:** Data cleaning → Feature engineering → Model training → Evaluation → Visualization  
-- **Repository:** [`projects/sales-forecasting-ml`](./projects/sales-forecasting-ml)  
+- **Repository:**   
 
 ### 2. Generative AI Chatbot
 - **Objective:** Build a chatbot to handle customer queries  
